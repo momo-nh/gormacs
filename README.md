@@ -1,0 +1,2 @@
+# gormacs
+simulation parameters
